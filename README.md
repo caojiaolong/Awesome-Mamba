@@ -30,6 +30,8 @@ If you come across any papers that have been missed, please feel free to open is
 
 - **[Vivim]** Vivim: a Video Vision Mamba for Medical Video Object Segmentation [[paper](https://arxiv.org/abs/2401.14168)] [[code](https://github.com/scott-yjyang/Vivim)] (2024.01.25)
 
+- **[Graph-Mamba]** Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces  [[paper](https://arxiv.org/abs/2402.00789)] [[code](https://github.com/bowang-lab/Graph-Mamba)]  (2024.02.01)
+
 ## Acknowledgement
 
 Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
