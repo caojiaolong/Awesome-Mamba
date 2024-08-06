@@ -32,6 +32,8 @@ If you come across any papers that have been missed, please feel free to open is
 
 - **[Graph-Mamba]** Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces  [[paper](https://arxiv.org/abs/2402.00789)] [[code](https://github.com/bowang-lab/Graph-Mamba)]  (2024.02.01)
 
+- **[BioMamba]** BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [[paper](https://arxiv.org/abs/2408.02600)] (2024.08.05)
+
 ## Acknowledgement
 
 Thanks the template from [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
